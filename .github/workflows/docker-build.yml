@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: agentnawab/papp:latest
+          tags: agentnawab/myapp:latest
